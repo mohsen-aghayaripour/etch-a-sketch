@@ -1,5 +1,6 @@
 
 const container = document.querySelector('#container');
+const btn = document.querySelector('#btn');
 // container.style.display = 'grid';
 // container.style.maxWidth = '500px';
 // container.style.minHeight = '500px';
