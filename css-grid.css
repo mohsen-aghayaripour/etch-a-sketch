@@ -6,7 +6,12 @@
     border: 1px solid black;
     cursor: pointer;
 }
-
+.h1{
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    color: rgb(240, 100, 6);
+}
 .grid{
     border: 1px solid rgb(5, 5, 5);
 }
@@ -14,7 +19,12 @@
     margin: auto;
     display: block;
 } */
-.bcontaining{
-    text-align: center;
-    left: 50%;
+.containing{
+  
+    text-align: center;  
+}
+.btnclass{
+    text-align: center;;
+    border: 2px solid black;
+    border-radius: 3px 3px 3px 3px;
 }
